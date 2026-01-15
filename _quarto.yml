@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sophie Kasdorf"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Papers"
+        href: papers.qmd
+
+format:
+  html:
+    theme: litera
+
+

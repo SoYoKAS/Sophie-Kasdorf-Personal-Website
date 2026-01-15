@@ -1,0 +1,27 @@
+---
+title: "Home"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.columns}
+::: {.column width="35%"}
+
+![](profile){ width=350px style="float:center; margin-right:20px;" fig-caption="Sophie Kasdorf" }
+
+:::
+
+::: {.column width="65%"}
+
+Hi! I’m a Ph.D. Biology candidate studying at Carleton University in Ottawa, Canada. My graduate research explores how diet shapes insect performance and life history, with applications to sustainable food systems and emerging biotechnologies. More broadly, I’m curious about how research in biology and physiology can apply to challenges from sustainable agriculture to future space exploration. 
+
+### Connect with me!
+
+You can reach me at: [sophiekasdorf@cmail.carleton.ca](mailto:sophiekasdorf@cmail.carleton.ca)  
+
+Connect on [LinkedIn](https://linkedin.com/in/sophie-kasdorf-474b2b1b0/) / [X] (https://twitter.com/)
+
+
+:::
+:::
+
